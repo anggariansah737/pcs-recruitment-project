@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pcs Project</string>
+    <string name="label_colon">:</string>
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_title_toolbar_detail">Detail Person</string>
+</resources>
